@@ -1,0 +1,5 @@
+{
+  "name": "Micro-Finance Management Pro",
+  "description": "A high-performance management system for micro-finance NGOs featuring fund tracking, client profiles, loan/DPS/FDR logic, and Google Sheets synchronization.",
+  "requestFramePermissions": []
+}
